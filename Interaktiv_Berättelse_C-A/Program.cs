@@ -32,7 +32,7 @@ while (false == done)
     }
     if(fast == true) {
     Console.WriteLine("du är fast");
-    
+    Console.WriteLine(".");
 }
 }
 

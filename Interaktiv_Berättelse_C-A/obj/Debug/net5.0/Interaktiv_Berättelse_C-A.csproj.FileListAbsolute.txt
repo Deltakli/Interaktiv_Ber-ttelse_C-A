@@ -1,0 +1,16 @@
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\bin\Debug\net5.0\Interaktiv_Berättelse_C-A.exe
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\bin\Debug\net5.0\Interaktiv_Berättelse_C-A.deps.json
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\bin\Debug\net5.0\Interaktiv_Berättelse_C-A.runtimeconfig.json
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\bin\Debug\net5.0\Interaktiv_Berättelse_C-A.runtimeconfig.dev.json
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\bin\Debug\net5.0\Interaktiv_Berättelse_C-A.dll
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\bin\Debug\net5.0\ref\Interaktiv_Berättelse_C-A.dll
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\bin\Debug\net5.0\Interaktiv_Berättelse_C-A.pdb
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\obj\Debug\net5.0\Interaktiv_Berättelse_C-A.csproj.AssemblyReference.cache
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\obj\Debug\net5.0\Interaktiv_Berättelse_C-A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\obj\Debug\net5.0\Interaktiv_Berättelse_C-A.AssemblyInfoInputs.cache
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\obj\Debug\net5.0\Interaktiv_Berättelse_C-A.AssemblyInfo.cs
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\obj\Debug\net5.0\Interaktiv_Berättelse_C-A.csproj.CoreCompileInputs.cache
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\obj\Debug\net5.0\Interaktiv_Berättelse_C-A.dll
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\obj\Debug\net5.0\ref\Interaktiv_Berättelse_C-A.dll
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\obj\Debug\net5.0\Interaktiv_Berättelse_C-A.pdb
+C:\Users\arosenius.carlander\Documents\Carl-Anders_Arosenius_Interaktiv_berättelseTE20A\Interaktiv_Berättelse_C-A\Interaktiv_Berättelse_C-A\obj\Debug\net5.0\Interaktiv_Berättelse_C-A.genruntimeconfig.cache
